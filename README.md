@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Rohit Krishna Sah @Githubrohiti
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Java
-- 📫 I'm currently working at Image Infosystem Private Ltd. (IISPL)
+- 👋 Hi, I’m Rohit Krishna Sah
+- @Githubrohiti
+- 👀 I’m interested in Automation testing
+- 🌱 Looking for SDET role
+- 📫 Currently working as Quality Assurance Specialist.
 
 <!---
 Githubrohiti/Githubrohiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
